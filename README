@@ -1,0 +1,27 @@
+
+Python tunnel of love
+
+A further experiment in generators program designs
+
+Listens on a list of ports.
+
+Each port may be associated with a ship to board and disembark.
+
+Players telnet to a port and manifest a lover.
+
+A player on an empty (of ship, not player) port can charter a ship to come.
+
+The player who charters the ship becomes the financier.
+
+The first player aboard a chartered ship becomes the skipper.
+
+The ship accepts embarkees until the skipper disembarks the ship
+
+If a connection aborts then the player expires in some fashion (falls off ship, blows self up, etc.).
+
+Otherwise, the ship proceeds into the tunnel of love associated with the port disembarked from.
+
+
+
+
+
